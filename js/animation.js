@@ -3,11 +3,11 @@
 /******************************************************* SETUP ************************************************************/
 
 const config = {
-    name: "Irina Kaptelova", // actual name of the recipient (Mandatory)
+    name: "Yilisha", // actual name of the recipient (Mandatory)
 
     nickname: "Yilisha", // nickname(optional)
 
-    pic: "/resources/img/irina.png", //image url of recipients (Mandatory)
+    pic: "../resources/img/irina.jpg", //image url of recipients (Mandatory)
 
     showScrollMsg: true, // set to false if you do not want the scrolling message
 };
