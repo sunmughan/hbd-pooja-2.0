@@ -7,7 +7,7 @@ const config = {
 
     nickname: "Yilisha", // nickname(optional)
 
-    pic: "../resources/img/irina.jpg", //image url of recipients (Mandatory)
+    pic: "", //image url of recipients (Mandatory)
 
     showScrollMsg: true, // set to false if you do not want the scrolling message
 };
