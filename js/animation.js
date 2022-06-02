@@ -176,7 +176,7 @@ button.addEventListener("click",function(){
             return;
         }
 
-        document.querySelector(".HBD").textContent = "May you live a happier and longer life :)";
+        document.querySelector(".HBD").textContent = "Wishing you the happiest birthday 🎊";
 
         frames[1].style.display = "flex";
 
