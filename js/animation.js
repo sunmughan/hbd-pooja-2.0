@@ -3,11 +3,11 @@
 /******************************************************* SETUP ************************************************************/
 
 const config = {
-    name: "Yilisha", // actual name of the recipient (Mandatory)
+    name: "Pooja 2.0", // actual name of the recipient (Mandatory)
 
-    nickname: "Yilisha", // nickname(optional)
+    nickname: "Pooja", // nickname(optional)
 
-    pic: "", //image url of recipients (Mandatory)
+    pic: "https://github.com/sunmughan/hbd-pooja-2.0/blob/master/resources/img/pooja.jpg", //image url of recipients (Mandatory)
 
     showScrollMsg: true, // set to false if you do not want the scrolling message
 };
