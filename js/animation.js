@@ -7,7 +7,7 @@ const config = {
 
     nickname: "Pooja", // nickname(optional)
 
-    pic: "https://github.com/sunmughan/hbd-pooja-2.0/blob/master/resources/img/Asset.png", //image url of recipients (Mandatory)
+    pic: "", //image url of recipients (Mandatory)
 
     showScrollMsg: true, // set to false if you do not want the scrolling message
 };
