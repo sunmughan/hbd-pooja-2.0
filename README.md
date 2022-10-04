@@ -2,7 +2,7 @@
 
 A Web based birthday card to wish your friends and family in a unique way.
 
-Check out the [Preview](https://xxx/).
+Check out the [Preview](https://sunmughan.github.io/hbd-pooja-2.0/).
 
 If you liked it, please consider giving it star 🤩⭐. Feel free to fork too 🤗.
 
